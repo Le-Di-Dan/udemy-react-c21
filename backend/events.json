@@ -1,0 +1,18 @@
+{
+  "events": [
+    {
+      "title": "2020s: COVID-19 Pandemic",
+      "image": "https://www.cdc.gov/museum/timeline/images/sarscov2-illus-1080x600px.jpg?_=35376",
+      "date": "2020-03-11",
+      "description": "In early 2020, life in the United States and around the world was turned upside down by the arrival of the COVID-19 global pandemic. For more than two years, preventive measures such as lockdowns, social distancing, mask wearing, and vaccine passports became the “new normal,” as local and national governments sought to prevent the spread of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which causes COVID-19, the potentially deadly disease that claimed more than one million American lives by May 2022.",
+      "id": "040ad33d-26e9-41d3-8595-b1cbbcd599d0"
+    },
+    {
+      "title": "1960s: Assassination of Martin Luther King, Jr. (1968)",
+      "image": "https://teachingssorg.files.wordpress.com/2018/08/martin-luther-king-assassinted-new-york-times-april-5-1968.jpg",
+      "date": "1968-04-04",
+      "description": "At the center of the widespread social and political upheaval of the 1960s were the civil rights movement, opposition to the Vietnam War, the emergence of a youth-oriented counterculture, and the establishment and reactionary elements that pushed back against change. The April 4, 1968, assassination of Martin Luther King, Jr., the most prominent civil rights leader, revealed the tragic, violent consequences that could result from a country’s political polarization.",
+      "id": "10702014-d2b3-43d9-ab6f-1cbb310a5347"
+    }
+  ]
+}
